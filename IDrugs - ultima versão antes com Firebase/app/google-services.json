@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "789215265558",
+    "firebase_url": "https://project-1453308271285243406.firebaseio.com",
+    "project_id": "project-1453308271285243406",
+    "storage_bucket": "project-1453308271285243406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789215265558:android:4ebeff3a4a1419b2",
+        "android_client_info": {
+          "package_name": "com.example.beneson.idrugs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789215265558-al1mev2ipm0re4djegphpmg8c7afhvr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKBeRR4tiWWF4IA8kQ6L1wM_wSJgWuWbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
